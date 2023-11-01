@@ -1,6 +1,6 @@
 # Slider-Famous-Paintings🎨
 
-https://github.com/marjanmokhtari/Slider-Famous-Paintings/assets/143844652/cc6f6a47-7bf4-4ea0-bbc4-31ae41bfaa46
+https://github.com/marjanmokhtari/Slider-Famous-Paintings/assets/143844652/5de61ee5-dd1d-43a2-9ab9-9a78bcc54b2b
 
 🪐- Technologies Used - Html , css , sass
 
